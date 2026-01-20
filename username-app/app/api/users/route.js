@@ -6,7 +6,8 @@ export async function GET() {
       'charlie',
       'diana',
       'evan',
-      'sat'
+      'sat',
+      'bob2'
     ];
   
     return Response.json({ users });
