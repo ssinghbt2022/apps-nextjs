@@ -1,2 +1,0 @@
-# apps-nextjs
-nextjs PoC
